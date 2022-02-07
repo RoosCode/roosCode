@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @roosCode
+- 👋 Hi, I’m @RoosCode
 - 👀 I’m interested in cloud security and development 
 - 🌱 I’m currently learning System Admin and Python 
 - 💞️ I’m looking to collaborate on any project. Currently, I am a student and just getting started on my journey 
